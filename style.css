@@ -1,0 +1,263 @@
+/*header starts*/
+header, .banner{
+    background-color: #171921;
+    
+}
+body{
+    background-color: #171921;
+}
+.custom_secondary{
+    border: none !important;
+    background:transparent !important;
+}
+.custom_icon{
+    padding:10px;
+    color:white;
+}
+.custom_2{
+    padding:10px;
+    color:white;
+}
+.custom_nav ul li a{
+    color: white !important;
+    padding: 0 20px !important;
+    border-radius: 15px;
+    margin: 0px 10px 0px 0px;
+}
+.custom_nav ul li a:hover{
+        background-color: #F9603E;
+}
+
+/*header ends*/
+/* header starts */
+header, .banner{
+    background-color: #171921;
+    
+}
+.banner{
+    padding: 20px 0;
+}
+.logo{
+    height: 60px;
+    width: 200px;
+}
+
+
+.header-bg h2{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+.red_learn{
+    color: #FD511A;
+    font-size: 16px;
+
+}
+.green_special{
+    color: #FD511A !important;
+
+}
+.normal_text{
+    font-size: 16px;
+    color: #6C6B6B;
+   
+}
+.custom_button{
+    background-color: #F9603E;
+    border-radius: 8px;
+    color: #fff;
+    height:45px;
+    width: 155px;
+    border: none;
+    margin: 10px 0;
+}
+.custom_button:hover{
+    background-color: #fff;
+    border-radius: 8px;
+    color: #F9603E;
+    font-weight: 700;
+    height:45px;
+    width: 155px;
+    border: 2px solid #F9603E;
+    margin: 10px 0;
+}
+/*4 photos starts*/
+.four_photos{
+    background-color: #171921;
+    padding: 100px 0;
+}
+.single_100{
+    text-align: center;
+    /* margin-top: 50px; */
+}
+
+
+
+/*4 photos ends*/
+.course{
+        padding: 100px !important;
+}
+.info_section{
+    background-color: #171921;
+    min-height: 300px;
+}
+.custom_box{
+    background-color: #21232E;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.custom_card{
+    padding: 40px 20px;
+    border: none;
+    /* box-shadow: 5px 5px 10px lightgrey; */
+    background-color: #F0FFF0;   
+    background-color: #21232E;
+}
+.card-footer{
+    background-color: white;
+}
+/* .custom_card:hover{
+    background-color: #21B573;
+
+} */
+
+.date{
+    margin-bottom: 15px;
+}
+
+
+.custom_card img{
+    width: 66px;
+    height: 85px;
+}
+
+.custom_card h5{
+    text-align: center;
+    color: #fff;
+}
+.custom_card p{
+    text-align: center;
+    color: #585859;
+}
+
+.img_center{
+    margin: 0 auto;
+}
+
+.margin_top{
+    margin-top: 80px;
+}
+
+.online{
+    color: #413960;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.custom_card_two{
+    background-color: #171921;;
+}
+.custom_crd{
+    background-color: #171921;
+    border: none;
+}
+.name{
+    color: #fff;
+}
+.member_title{
+    font-size: 16px;
+    color: #413960;
+}
+
+
+.custom_card_two h5{
+    text-align: left;
+    color: #413960;
+}
+.custom_card_two p{
+    text-align: left;
+    color: #585859;
+}
+
+.testimonial{
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.custom_text{
+    color: #6C6B6B;
+}
+.custom_img img{
+    width: 120px;
+    height: 120px;
+}
+
+.testimonial_section{
+    padding: 20px 40px;
+    margin: 20px 40px;
+}
+#media{
+    padding: 30px 10px;
+}
+.custom_input{
+    background-color: #0C0D11;
+    font-size: 15px;
+}
+.custom_btn{
+    background-color: #0C0D11;
+    border: 1 px solid lightgrey;
+    color: #F9603E;;
+}
+
+.footer_section{
+    background-color: #111319;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+.footer_section p{
+    color: #6C6B6B;
+}
+
+.copy_text{
+    color: #CDCDCD;
+    font-size: 14px;
+    margin-top: 35px;
+}
+.custom_submit{
+    padding: 8px 38px;
+ background-color: #21B573;
+ color: #010101;
+ font-weight: bold ;
+ border: none ;
+ margin-bottom: 40px;
+}
+.custom_submit:hover{
+    color:#21B573 ;
+    background-color: #fff;
+    border: 1px solid #21B573;
+}
+.footer_text{
+    color: #FFFFFF;
+    text-align: center;
+}
+.contact_line ul li{
+    border: 1px solid gray;
+    border-radius: 50%;
+    opacity: .5;
+ margin-top: 15px;
+ padding: 0px 6px;
+ color: gray; 
+}
+.member_title_cpyright{
+    font-size: 11px;
+    text-align: center;
+}
+.custom_left{
+    text-align: left;
+}
